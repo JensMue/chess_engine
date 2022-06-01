@@ -1,0 +1,15 @@
+https://python-chess.readthedocs.io/en/latest/index.html
+https://www.chessprogramming.org/Minimax
+https://www.chessprogramming.org/Negamax
+https://www.chessprogramming.org/Alpha-Beta
+https://www.chessprogramming.org/Move_Ordering
+https://www.chessprogramming.org/Killer_Heuristic
+https://www.chessprogramming.org/Opening_Book
+https://www.chessprogramming.org/Endgame_Tablebases
+https://www.chessprogramming.org/Quiescence_Search
+https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/
+https://byanofsky.com/2017/07/06/building-a-simple-chess-ai/
+https://www.youtube.com/watch?v=l-hh51ncgDI&list=WL&index=7&t=0s
+https://www.slideshare.net/RohitVaidya3/how-i-taught-a-computer-to-play-chess
+https://www.slideshare.net/myemon/aiminimax-algorithm-and-alpha-beta-reduction
+https://en.wikipedia.org/Minimax
