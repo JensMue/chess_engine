@@ -1,0 +1,13 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Opening book
+res/Polyglot_opening_book/*.bin
+
+# Endgame tablebases
+res/Syzygy_endgame_tablebases/*.rtbw
+res/Syzygy_endgame_tablebases/*.rtbz
