@@ -1,0 +1,3 @@
+https://syzygy-tables.info/
+https://tablebase.lichess.ovh/tables/standard/
+http://tablebase.sesse.net/
